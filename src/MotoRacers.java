@@ -911,7 +911,7 @@ public class MotoRacers extends javax.swing.JFrame {
     }//GEN-LAST:event_jMenu1ActionPerformed
 
     private void companyCmbActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_companyCmbActionPerformed
-        filter();       
+        
         
     }//GEN-LAST:event_companyCmbActionPerformed
 
